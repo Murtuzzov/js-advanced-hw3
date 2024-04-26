@@ -37,3 +37,14 @@
 //   modalWindow.style.display = "none";
 //   container.style.backgroundColor = "white";
 // });
+
+//ЗАДАНИЕ №3
+
+// const field = document.querySelector(".container");
+
+// field.addEventListener("click", (event) => {
+//   const ball = document.querySelector(".ball");
+//   ball.style.left = event.clientX + "px";
+//   ball.style.top = event.clientY + "px";
+// });
+
